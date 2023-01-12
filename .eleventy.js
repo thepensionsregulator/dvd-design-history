@@ -8,7 +8,7 @@ module.exports = function (eleventyConfig) {
     headingPermalinks: true,
     header: {
       organisationLogo: false,
-      productName: 'Design history',
+      productName: 'Data validation documents design history',
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
         html: 'An unofficial community project. <a class="govuk-footer__link" href="https://github.com/x-govuk/x-govuk.github.io">GitHub source</a>.'
       },
       copyright: {
-        text: '© X-GOVUK'
+        text: '© The Pension Regulator'
       }
     }
   })

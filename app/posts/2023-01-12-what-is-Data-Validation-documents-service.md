@@ -16,11 +16,13 @@ For the purpose of this Alpha we are focusing on the 'Data capture' part of the 
 
 The service has 3 key external users,
 
-### Junior Actuary
+1. Junior Actuary
 
-### Senior Actuary
+2. Senior Actuary
 
-### Trustees
+3. Trustees
+
+Junior Actuary do most of the data entry into the DVD service
 
 ## Problem statment
 

@@ -17,7 +17,6 @@
     "test": "standard"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-img": "^3.0.0",
     "govuk-eleventy-plugin": "^3.0.3",
     "http-server": "^14.1.1",
@@ -25,6 +24,7 @@
     "sass": "^1.56.0"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
     "standard": "^17.0.0",
     "webshot-node": "^0.18.2"
   },

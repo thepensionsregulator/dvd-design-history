@@ -25,4 +25,4 @@ module.exports = function (eleventyConfig) {
   })
 
   // Passthrough
-  eleventyConfig.addPassthroughCopy({ './app/assets/images': '.' })
+  eleventyConfig.addPassthroughCopy({ './app/images': '.' })

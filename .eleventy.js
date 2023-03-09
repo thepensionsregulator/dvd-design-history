@@ -26,3 +26,17 @@ module.exports = function (eleventyConfig) {
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
+
+
+  return {
+    dataTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
+    markdownTemplateEngine: 'njk',
+    dir: {
+      input: 'app',
+      output: 'public',
+      layouts: '_layouts',
+      includes: '_components'
+    }
+  }
+}

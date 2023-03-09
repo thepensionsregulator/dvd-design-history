@@ -13,6 +13,6 @@ aside:
   title: Related links
   content: |
 
-    [prototype on github](https://github.com/opencastsoftware/tpr-dvd-prototype)
-    [prototype on heroku]()
+    [prototype on github](https://github.com/thepensionsregulator/tpr-dvd-prototype)
+    [prototype on heroku](https://tpr-dvd-prototype.onrender.com/)
 ---

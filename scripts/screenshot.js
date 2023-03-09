@@ -16,7 +16,7 @@
 */
 const paths = [{
   title: 'Index page',
-  path: '/'
+  path: '/sprint-1'
 }]
 const { DateTime } = require('luxon')
 const domain = 'http://localhost:3000'

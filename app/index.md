@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: home
-title: "Design history of 'Data validation documents' service"
+title: "Design history of 'Submit your scheme valuation data' service"
 description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
 pagination:
   data: collections.post

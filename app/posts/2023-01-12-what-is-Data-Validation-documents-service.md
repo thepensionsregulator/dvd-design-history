@@ -4,6 +4,9 @@ description: Actuaries have to update The Pension Regulator every 3 years with n
 date: 2023-01-12
 ---
 
+
+## What is Data validation documents (DVD)
+
 Data validation documents (DVD) is a service which is being created to replace end of life system.
 
 Actuaries have to update The Pension Regulator every 3 years with new financial information about the scheme and check weather information such as the trustees of the scheme are up-to-date.
@@ -11,25 +14,20 @@ Actuaries have to update The Pension Regulator every 3 years with new financial 
 For the purpose of this Alpha we are focusing on the 'Data capture' part of the actuaries journey.
 
 
-## The users
-
-
-The service has 3 key external users,
-
-1. Junior Actuary
-
-2. Senior Actuary
-
-3. Trustees
-
-Junior Actuary do most of the data entry into the DVD service
-
 ## Problem statment
 
+How might we make it easy for DB pension schemes to submit accurate information to TPR so that they are following the PSA and minimize the need for rework, while enabling greater data-driven decision making to protect scheme members?
 
-How might we make it easy for DB pension schemes to submit accurate information to TPR so that they are in compliance with the PSA and minimise the need for rework, while enabling greater data-driven decision making to protect scheme members?
+
+## Policy intent
+
+Scheme should have necessary long-term funding approach to ensure savers have the best change of receiving the benefits they expect
 
 
-## The vision
+## Service Purpose
 
-“Our vision is to deliver digital services designed to support pension schemes in their duties to workplace savers. Our digital services will be user centred, comply with government service standards and reduce delivery costs. Through digital services, we will capture data which will drive the insight required to effectively apply our regulatory powers and to create meaningful intelligence based on market themes. Digital Service Delivery drives us to be an efficient, data-led and agile regulator, demonstrating value for money.”
+Submit your scheme valuation data will provide TPR with accurate data to make decisisons about schemes long-term team funding approach
+
+## Service Outcome
+
+A straightforward, time-effcient way for scheme administrators to negotiate, gather and submit their scheme valuation data

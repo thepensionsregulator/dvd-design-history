@@ -21,11 +21,11 @@ Look into data from the current service about devices used
 
 ## To be raise with the panel
 
-Although we agree that the team need to look further into the ways into the service according to alpha guidelines we do not need to <a href="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">understand or prototype ways into the service in alpha</a>. 
+Although we agree that the team need to look further into the ways into the service according to alpha guidelines we do not need to <a href="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">understand or prototype ways into the service in alpha</a>.
 
 Questions were raised around technology choices which were made at organisations level and out of the control of the service team
 
-Service performance
+Service performanceccd 
 
 
 ## Moving forward

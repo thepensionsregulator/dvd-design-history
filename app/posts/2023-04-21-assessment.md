@@ -28,7 +28,7 @@ Although we agree that the team need to look further into the ways into the serv
 
 Questions were raised around technology choices which were made at an organisational level, and were out of the control of the service team.
 
-Service performance.
+Significant questions were raised around how the service performance would be measured. The Service Manual only states that to meet the standard at alpha, 'you should... continue to refine the metrics you'll use to measure how successful your service is', and we do not agree that it was appropriate to spend such a significant amount of time on these questions in the assessment.
 
 
 ## Moving forward

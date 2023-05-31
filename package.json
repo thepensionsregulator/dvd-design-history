@@ -25,7 +25,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-img": "^3.0.0",
-    "standard": "^17.0.0",
+    "standard": "^17.1.0",
     "webshot-node": "^0.18.2"
   },
   "private": true,
